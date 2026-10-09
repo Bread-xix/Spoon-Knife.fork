@@ -11,3 +11,6 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 ### Ni howdy lets code
 
+I am a genji player dive is my body ego is my blood I will chall anyone in site and win out of pure rage spite, and ego, I have swung my blade millions of time without falter even in death. With that I pray Unlimited dragon works
+
+### ryujin no ken wo kurae
