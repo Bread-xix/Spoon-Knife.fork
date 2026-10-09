@@ -9,9 +9,20 @@
   margin: 50px auto;
 }
 
-p {
+p,h1,ul,ol,h2{
   display: block;
   width: 400px;
   margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace; background-color: aquamarine 
+}h1,h2 {.makeblue } 
+
+
+p{
+  color:red
 }
+
+.makeblue{
+  color:blue 
+}
+
+background-color: aquamarine 
